@@ -38,6 +38,9 @@ zstyle ':prezto:load' pmodule \
   'spectrum' \
   'utility' \
   'completion' \
+  'git' \
+  'syntax-highlighting' \
+  'autosuggestions' \
   'history-substring-search' \
   'prompt'
 
